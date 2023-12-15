@@ -8,7 +8,7 @@ public class Link : MonoBehaviour
 	public void OpenGithub()
 	{
 #if !UNITY_EDITOR
-		openWindow("https://github.com/m1rakulus/BetaSubmission");
+		openWindow("https://github.com/AnthonyDelaCruz777/BetaSub");
 #endif
     }
 
